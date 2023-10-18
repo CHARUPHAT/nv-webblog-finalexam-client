@@ -24,11 +24,12 @@ export default {
   data() {
     return {
       user: {
-        name: "",
-        lastname: "",
-        email: "",
-        password: "",
-        status: "active"
+        "model": "STOCKWELL II",
+    "brand": "Marshal",
+    "watt": "5.0",
+    "power_input": 220,
+    "status": "not continue",
+    "type": "portable"
       }
     };
   },
